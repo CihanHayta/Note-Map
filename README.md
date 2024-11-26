@@ -17,3 +17,4 @@ Bu proje, kullanıcıların konum verilerini alarak mevcut konumlarını harita 
 
 # Projemin ön izlenmesi;
 
+![EkranKayd2024-11-2700 01 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1040ab25-ad82-4ee1-adf9-d2e8c156865e)
